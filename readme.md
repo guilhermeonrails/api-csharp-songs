@@ -3,5 +3,5 @@
 Para acessar os dados desta API, acesse o link:
 
 ```
-https://raw.githubusercontent.com/guilhermeonrails/api-csharp-songs/songs.json
+[https://guilhermeonrails.github.io/api-csharp-songs/songs.json](https://guilhermeonrails.github.io/api-csharp-songs/songs.json)
 ```
